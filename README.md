@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on University Portal App. **Student Portal- MyPortal**
 
-- 🌱 I’m currently learning Dart and Flutter **Multiple courses and self learning App Development**
+- 🌱 I’m currently learning Dart, Flutter, and **Multiple courses and self learning App Development**
 
 - 🤝 I’m looking for help with Mobile Applications. **Flutter based mobile Apps**
 
