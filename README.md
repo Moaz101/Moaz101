@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Dart and Flutter **Multiple courses and self learning App Development**
 
-- 👯 I’m looking to collaborate on API for student data fetching. **E-commerce App**
+- 👯 I’m looking to collaborate on an API for student data fetching. **E-commerce App**
 
 - 🤝 I’m looking for help with Mobile Applications. **Flutter based mobile Apps**
 
