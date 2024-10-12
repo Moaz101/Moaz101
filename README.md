@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Moaaz Moaaz Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Moaaz Mohamed</h1>
 <h3 align="center">A hardworking developer from the heart of Cairo.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671”>
+<img align="right" alt="Coding" width="400" src="dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif”>
 
 - 🔭 I’m currently working on University Portal App. **Student Portal- MyPortal**
 
