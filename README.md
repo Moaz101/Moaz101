@@ -1,4 +1,4 @@
-# Hey there! I'm Moaaz Mohamed 👨‍💻
+[# Hey there! I'm Moaaz Mohamed 👨‍💻
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662/" width="300" alt="Developer Animation"/>
@@ -95,3 +95,4 @@ I'm always excited to collaborate on projects that push boundaries and solve rea
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
+](https://claude.ai/chat/1d9eec4f-b760-485e-97fa-7c65cc37a152)
