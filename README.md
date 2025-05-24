@@ -1,98 +1,28 @@
-[# Hey there! I'm Moaaz Mohamed 👨‍💻
+[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Moaaz Mohamed</h1>
+<h3 align="center">A hardworking and aspiring developer from the heart of Cairo.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662/" width="300" alt="Developer Animation"/>
-</div>
+- 🔭 I’m currently working on University Portal App. **Student Portal- MyPortal**
 
-## 🏙️ Building Tomorrow's Apps from the Heart of Cairo
+- 🌱 I’m currently learning Dart, Flutter, **Multiple online courses, and Self learning App Development**
 
-I'm a passionate developer who believes that great software starts with understanding real problems. Currently deep in the trenches of mobile development, turning caffeine into code and ideas into applications that people actually want to use.
+- 🤝 I’m looking for help with Mobile Applications. **Flutter based mobile Apps**
 
-### 🚀 What I'm Building Right Now
+- 👨‍💻 All of my projects are available at [https://github.com/Moaz101](https://github.com/Moaz101)
 
-**MyPortal** - A comprehensive university portal that's actually intuitive (revolutionary, I know). Think of it as the student management system that doesn't make you want to throw your laptop out the window. Built with Flutter because native performance shouldn't be a luxury.
+- 💬 Ask me about **Object Oriented Programming**
 
-### 🎯 My Current Learning Adventure
+- 📫 How to reach me **moaz.aboutaleb.2005@gmail.com**
 
-I'm on a mission to master the art of crafting mobile experiences that feel native, perform beautifully, and solve real problems. Currently diving deep into:
-- **Flutter & Dart** - Because cross-platform shouldn't mean compromise
-- **Advanced app architecture** - Clean code isn't just a buzzword
-- **User experience design** - Code is poetry, but UI is the stage
 
-### 💡 What Gets Me Excited
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/moaaz-aboutaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaaz-aboutaleb" height="30" width="40" /></a>
+<a href="https://instagram.com/moaz.abtlb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moaz.abtlb" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/moazweewee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moazweewee" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/moaaz_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moaaz_mohamed" height="30" width="40" /></a>
+</p>
 
-I live for those "aha!" moments when complex problems meet elegant solutions. Whether it's optimizing database queries, crafting smooth animations, or debugging that one issue that's been haunting me for hours - I find beauty in the process of building software that matters.
-
-**Ask me about:**
-- Object-Oriented Programming (I might get a bit too excited about design patterns)
-- Mobile app architecture that scales
-- That time I spent 6 hours debugging only to find a missing semicolon
-- Why I think Flutter is the future of mobile development
-
-### 🛠️ My Technical Arsenal
-
-<details>
-<summary><strong>Languages I Speak Fluently</strong></summary>
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-</details>
-
-<details>
-<summary><strong>Frameworks & Tools I Love</strong></summary>
-
-**Mobile Development**
-- Flutter (My go-to for beautiful cross-platform apps)
-- Android Native (When I need that extra performance edge)
-- React Native (For when JavaScript is life)
-
-**Backend & Database**
-- Node.js + Express (Fast, reliable, scalable)
-- MongoDB (Document-based flexibility)
-- PostgreSQL & MySQL (When relations matter)
-- Firebase (For rapid prototyping)
-
-**DevOps & Tools**
-- Docker (Containerization made easy)
-- Git (Version control is life)
-- AWS (Cloud computing powerhouse)
-- Postman (API testing companion)
-
-</details>
-
-### 📊 GitHub Stats That Make Me Smile
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moaz101&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaz101&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-### 🏆 Competitive Programming Journey
-
-When I'm not building apps, you'll find me solving algorithmic puzzles and sharpening my problem-solving skills:
-- **Codeforces:** [@moazweewee](https://codeforces.com/profile/moazweewee) - Where I battle algorithms daily
-- **LeetCode:** [@moaaz_mohamed](https://www.leetcode.com/moaaz_mohamed) - Grinding through data structures and algorithms
-
-### 🤝 Let's Connect and Build Something Amazing
-
-I'm always excited to collaborate on projects that push boundaries and solve real problems. Whether you're looking for a mobile developer, want to discuss the latest in tech, or just want to geek out about clean code practices, I'm your guy!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moaaz-aboutaleb)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moaz.abtlb)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaz.aboutaleb.2005@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
-](https://claude.ai/chat/1d9eec4f-b760-485e-97fa-7c65cc37a152)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
