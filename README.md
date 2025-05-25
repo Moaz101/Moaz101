@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with Mobile Applications. **Flutter based mobile Apps**
 
-- 👨‍💻 All of my projects are available at [https://moaaz-mohamed.netlify.app](moaaz-mohamed.netlify.app)
+- 👨‍💻 All of my projects are available at [moaaz-mohamed.netlify.app](https://moaaz-mohamed.netlify.app)
 
 - 💬 Ask me about **Object Oriented Programming**
 
