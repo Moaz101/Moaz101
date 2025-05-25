@@ -15,7 +15,7 @@
 
 - 💬 Ask me about app architecture, secure coding practices, or scaling apps from concept to production
 
-- 📫 Reach me at **moaz.aboutaleb.2005@gmail.com** — always happy to connect with like-minded builders and security enthusiasts.
+- 📫 Reach me at moaz.aboutaleb.2005@gmail.com — always happy to connect with like-minded builders and security enthusiasts.
 
 
 <h3 align="left">Connect with me:</h3>
