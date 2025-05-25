@@ -7,7 +7,7 @@
 
 - 🧠 With a strong foundation in Object-Oriented Programming and real-world development experience, I enjoy building apps that are not only functional and user-friendly — but also secure.
 
-- 🌱 I’m currently learning Dart, Flutter, **Multiple online courses, and Self learning App Development**
+- 🌱 I’m deepening my skills in Dart and Flutter, while also studying cybersecurity, mobile app security, and ethical hacking through self-learning and hands-on experimentation.
 
 - 🤝 I’m open to collaborating on Flutter-based mobile apps and cybersecurity-focused projects, especially those that protect users and improve digital safety
 
