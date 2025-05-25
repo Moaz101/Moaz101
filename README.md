@@ -3,6 +3,9 @@
 <h3 align="center">A hardworking and aspiring developer from the heart of Cairo.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
+
+
+
 - 🔭 I’m currently developing **MyPortal**, a university student portal app
 
 - 🧠 With a strong foundation in Object-Oriented Programming and real-world development experience, I enjoy building apps that are not only functional and user-friendly — but also secure.
