@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently developing **MyPortal**, a university student portal app
 
+- 🧠 With a strong foundation in Object-Oriented Programming and real-world development experience, I enjoy building apps that are not only functional and user-friendly — but also secure.
+
 - 🌱 I’m currently learning Dart, Flutter, **Multiple online courses, and Self learning App Development**
 
-- 🤝 I’m looking for help with Mobile Applications. **Flutter based mobile Apps**
+- 🤝 I’m open to collaborating on Flutter-based mobile apps and cybersecurity-focused projects, especially those that protect users and improve digital safety
 
 - 👨‍💻 All of my projects are available at [moaaz-mohamed.netlify.app](https://moaaz-mohamed.netlify.app)
 
-- 💬 Ask me about **Object Oriented Programming**
+- 💬 Ask me about app architecture, secure coding practices, or scaling apps from concept to production
 
 - 📫 How to reach me **moaz.aboutaleb.2005@gmail.com**
 
